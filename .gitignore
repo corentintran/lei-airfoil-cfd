@@ -1,3 +1,7 @@
+# User defined files and folders
+openFoam/AOA*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
