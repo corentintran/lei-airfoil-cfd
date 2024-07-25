@@ -6,18 +6,18 @@ import csv
 import matplotlib.pyplot as plt
 
 ######  Study case inputs #########
-case_name = 'sk200'
+case_name = 'default-kite'
 Va = 20         # apparent wind 
-L = 8           # true chord of the kite for Re number
-Depth = 14      # max depth (in % of the chord)
-tube_size = 3   # tube diameter (in % of the chord)
-at = 22         # x-position of the max camber (in % of the chord)
-TE_angle = 12   
+L = 1           # true chord of the kite for Re number
+Depth = 9       # max depth (in % of the chord)
+tube_size = 9   # tube diameter (in % of the chord)
+at = 25         # x-position of the max camber (in % of the chord)
+TE_angle = 7   
 remesh = True   #boolean for recompute mesh
 
 # Range of angle of attack
-min_AOA = 8
-max_AOA = 10
+min_AOA = 0
+max_AOA = 17
 delta_AOA = 2
 range_AOA = np.arange(min_AOA, max_AOA, delta_AOA)
 #####################################
