@@ -1,9 +1,0 @@
-##################
-results/default-kite.csv
-##################
-Tube size = 9.00 %
-Depth = 9.00 %
-at 25.00 % 
-TE angle = 7.00 °
-Chord = 1.00 m
-
