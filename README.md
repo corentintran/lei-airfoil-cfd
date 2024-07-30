@@ -3,10 +3,16 @@ lei-airfoil-cfd, for CFD analysis of Leading Edge Inflatable (LEI) kite airfoils
 
 ## :gear: Installation
 
+### Dependencies
+
+- OpenFoam need to be installed. See https://openfoam.org/download/11-ubuntu/ 
+
 ### User Installation
-User Installation
+
+Navigate to you run/ folder in your OpenFoam directory and clone the repo
 
 ```bash
+run
 git clone https://github.com/corentintran/lei-airfoil-cfd.git
 cd lei-airfoil-cfd/
 ```
