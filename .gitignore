@@ -1,5 +1,7 @@
 # User defined files and folders
 openFoam/AOA*
+results/
+data/
 
 
 # Byte-compiled / optimized / DLL files
