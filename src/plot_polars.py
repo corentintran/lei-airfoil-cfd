@@ -2,7 +2,7 @@ import csv
 import matplotlib.pyplot as plt
 
 # Read the list of CSV files to compare
-polars_list = "polars_list.txt"
+polars_list = "data/polars_list.txt"
 with open(polars_list, 'r') as file:
         lines = file.readlines()
 csv_files = []
