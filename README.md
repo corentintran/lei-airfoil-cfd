@@ -21,10 +21,10 @@ cd lei-airfoil-cfd/
 The script src/main_compute_polars run the cfd analysis. There you can specify the caracteristics of the airfoil to analyze.
 
 The script will 
-  (a) create the desired LEI airfoil geometry 
-  (b) generate the mesh and store it in data/ 
-  (c) run openfoam on this mesh for the desired AOAs
-  (d) generate polars plots and values and store these in the results folder.
+>  (a) create the desired LEI airfoil geometry 
+>  (b) generate the mesh and store it in data/ 
+>  (c) run openfoam on this mesh for the desired AOAs
+>  (d) generate polars plots and values and store these in the results folder.
 
 ## :wave: Contributing (optional)
 
