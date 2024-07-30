@@ -23,7 +23,7 @@ The script src/main_compute_polars run the cfd analysis. There you can specify t
 The script will 
 - create the desired LEI airfoil geometry 
 - generate the mesh and store it in data/ 
-- run openfoam on this mesh for the desired AOAs
+- run openfoam on this mesh for the desired angles of attack
 - generate polars plots and values and store these in the results folder.
 
 ## :wave: Contributing (optional)
