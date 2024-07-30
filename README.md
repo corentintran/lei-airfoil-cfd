@@ -34,6 +34,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Specify the license under which your software is distributed, and include the copyright notice:
 
-> Beyond The Sea hereby disclaims all copyright interest in the program “lei-airfoil-cfd” (one line description of the content or function) written by the Author(s).
+> Beyond The Sea hereby disclaims all copyright interest in the program “lei-airfoil-cfd” generating mesh for leading edge inflatable kite airfoil and running cfd analysis on it written by the Author(s).
 >
 > Copyright (c) [2024] [TRAN Corentin].
